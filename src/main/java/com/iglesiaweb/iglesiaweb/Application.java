@@ -1,4 +1,4 @@
-package com.iglesiaweb.iglesia.web;
+package com.iglesiaweb.iglesiaweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -13,3 +13,4 @@ public class Application {
 }
 //nome do banco iglesia_web
 //criando um crud simples
+//templates bootstrap free

@@ -1,4 +1,4 @@
-package com.iglesiaweb.iglesia.web;
+package com.iglesiaweb.iglesiaweb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
